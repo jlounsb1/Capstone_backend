@@ -7,4 +7,4 @@ const playDateSchema = new mongoose.Schema({
     dogTwo: {type:String},
 })
 
-export default mongoose.model('PlayDate', playDateSchema)
+export default mongoose.model('Playdates', playDateSchema)

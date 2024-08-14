@@ -1,5 +1,5 @@
 import express from 'express'
-import PlayDate from '../models/Playdates.js'
+import PlayDate from '../models/Playdates.mjs'
 //could not be found when I uploaded to render, trying to change path
 const router = express.Router()
 
