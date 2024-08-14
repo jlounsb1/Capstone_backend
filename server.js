@@ -7,7 +7,7 @@ import User from './models/users.mjs'
 import bodyParser from 'body-parser'
 import cors from 'cors'
 import Dogs from './routes/Dogs.mjs'
-import PlayDates from './routes/Playdates.js'
+import PlayDates from './routes/PlayDates.js'
 
 //app information
 const PORT = 3000;
