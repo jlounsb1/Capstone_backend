@@ -9,6 +9,9 @@ import cors from 'cors'
 import Dogs from './routes/Dogs.mjs'
 import PlayDates from './routes/PlayDates.js'
 
+//live url: https://capstone-backend-1cje.onrender.com/
+
+
 //app information
 const PORT = 3000;
 const app = express();
